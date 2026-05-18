@@ -11,6 +11,7 @@ Using Databricks and SQL, the datasets were integrated, cleaned, and transformed
 1️⃣ Merging CSV Files
 The first step was combining the 7 CSV files into a single structured table using SQL:
 This step ensured all tabular data was unified into one dataset (restaurants_data1).
+
 <img width="422" height="391" alt="image" src="https://github.com/user-attachments/assets/490fccef-d1cd-40e2-86a1-c447b8c8c06e" />
 
 
@@ -24,6 +25,7 @@ This step ensured all tabular data was unified into one dataset (restaurants_dat
 Next, the two JSON files were combined into a single table:
 sandbox:/mnt/data/image.png
 This created a second dataset (restaurants_data2) containing semi-structured data.
+
 <img width="427" height="140" alt="image" src="https://github.com/user-attachments/assets/d67f7583-fb15-423a-a1a3-e0e813b1479f" />
 
 
@@ -32,7 +34,8 @@ This created a second dataset (restaurants_data2) containing semi-structured dat
 
 
 3️⃣ Combining All Data Sources
-Finally, both datasets were merged together to create one unified dataset:
+Finally, both datasets were merged together to create one unified dataset.
+
 <img width="335" height="137" alt="image" src="https://github.com/user-attachments/assets/9a9cdcfc-4e65-431b-9957-c621cb9c253b" />
 
 ---
@@ -40,16 +43,18 @@ Finally, both datasets were merged together to create one unified dataset:
 
 🛠️ Data Workflow
 
-Engineered additional features like Year & Month columns for better time-based analysis
+Engineered additional features like Year & Month columns for better time-based analysis.
+
 <img width="311" height="197" alt="image" src="https://github.com/user-attachments/assets/f5cb4517-2f21-44ea-bfa5-c6ea0382b2b1" />
 
 
 
 
 
-Connected data to Power BI using DirectQuery to ensure real-time performance and scalability
+Connected data to Power BI using DirectQuery to ensure real-time performance and scalability.
 
-Applied transformations in Power Query
+Applied transformations in Power Query.
+
 <img width="600" height="231" alt="image" src="https://github.com/user-attachments/assets/506b8628-f94f-4b54-b9c9-3c5427a6a481" />
 
 
@@ -75,19 +80,22 @@ Additional measures were created to enhance analysis and provide deeper insights
 🔥 Most Important Insight
 Revenue is highly concentrated in a few key drivers.
 
-- Top 5 items generate **55.81%** of total revenue
+- Top 5 items generate **55.81%** of total revenue.
+  
 <img width="652" height="300" alt="image" src="https://github.com/user-attachments/assets/d1bbe9d8-371f-47af-be4b-64e6922afec7" />
 
 
 
 
-- Grills category contributes **34.89%**
+- Grills category contributes **34.89%**.
+  
 <img width="500" height="328" alt="image" src="https://github.com/user-attachments/assets/2c1efe57-e351-4aba-9e15-c5c7fd42ef92" />
 
 
 
 
-- Cairo branch alone drives **34.99%**
+- Cairo branch alone drives **34.99%**.
+  
 <img width="587" height="302" alt="image" src="https://github.com/user-attachments/assets/f7b3b33d-4fa0-4cd9-9cdb-d6ee26b2746f" />
 
 
