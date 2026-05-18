@@ -1,10 +1,9 @@
 # restaurant-analysis
-Scalable data analysis project using **Databricks**, **SQL**, and **Power BI** to transform **11M+** records into actionable business insights and real-time dashboards.
+**Scalable data analysis project using **Databricks**, **SQL**, and **Power BI** to transform **11M+** records into actionable business insights and real-time dashboards.**
 The data was originally distributed across multiple sources:
 7 CSV files
 2 JSON files
 
-Using Databricks and SQL, the datasets were integrated, cleaned, and transformed into a unified structure ready for analysis.
 ---
 
 ⚙️ Data Integration (Databricks + SQL)
