@@ -116,3 +116,5 @@ This project is a practical example of how large, fragmented datasets can be tra
 
 By identifying revenue concentration and key performance drivers, this analysis provides a strong foundation for strategic decisions, optimization, and business growth.
 
+
+You can get the data from this link: https://drive.google.com/drive/folders/1yWYm0bepd6RfoSc0gHEQHpOZaIRB_Dtu?usp=sharing 
